@@ -75,24 +75,12 @@ body{
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-footer {
-    background-color:#424E61;
-    color: white;
-    padding: 20px 0;
-}
-
-.container {
+.rodape {
+    background-color:black;
     text-align: center;
-    padding: 12px 0;
 }
 
-.textordt {
+.rodape-imagem{
+    height: 60px;
     padding: 12px 0;
-}
-
-.logo {
-    width: 75px; 
-    height: auto;
-    margin-right: 12px; /* espaço entre a imagem e o texto */
-}
-    
+}  
